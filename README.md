@@ -13,5 +13,5 @@ This application calculates the Body Mass Index (BMI) based on user input and pr
 - CSS
 - JavaScript
 
-## Preview
+## Live Demo
 https://lacerda-dev.github.io/bmi-calculator/
